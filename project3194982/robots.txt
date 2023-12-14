@@ -1,0 +1,26 @@
+User-Agent: *
+Disallow: /page41772314.html
+Disallow: /b2c
+Disallow: /page41996013.html
+Disallow: /sp
+Disallow: /page38770310.html
+Disallow: /page42042708.html
+Disallow: /officeb2c
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow: /members/login*
+Disallow: /members/signup*
+Disallow:
+
+
+Sitemap: https://willsauto.ru/sitemap.xml
+Sitemap: https://willsauto.ru/sitemap-store.xml
+Sitemap: https://willsauto.ru/sitemap-feeds.xml
+Host: https://willsauto.ru
